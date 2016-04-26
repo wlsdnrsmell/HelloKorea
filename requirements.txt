@@ -1,1 +1,9 @@
+futures
+python-dateutil
+requests
+vcrpy
+coverage
+pyopenssl
+msrest
+msrestazure
 -r reqs/azure_webapp.txt
