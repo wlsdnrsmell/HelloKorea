@@ -50,36 +50,3 @@ https://myazureproject.scm.azurewebsites.net 를 통해 디버그 콘솔을 띄�
     파이썬 쉘> exit()
 
 
-# 향후 시도해볼 것들
-
- * `Azure Storage` 에 업로드되는 파일들 저장하기
- * `Azure MySQL Database`
- * `Azure RedisCache` 에 캐싱하기
-
-
-# 유용한 azure-cli 커맨드
-
-    azure login
-    azure site list
-    azure site show <webapp_name>
-    azure site create meltingdjango --location "East Asia"
-
-
-# Links
-
-## Azure
-
- * [Azure WebApp 공식사이트](https://azure.microsoft.com/ko-kr/services/app-service/web/)
- * [Azure Portal](http://portal.azure.com)
-
-## 여러분의 파이썬/장고 페이스메이커가 되어드리겠습니다.
-
- * [AskDjango 공식 웹사이트](http://ask.festi.kr)
- * [페이스북 그룹](http://facebook.com/groups/askdjango) : Django 에 대한 궁금증을 풀어가세요. ;)
- * [페이스북 페이지](http://facebook.com/askdjango)
- * [ask@festi.kr](mailto:ask@festi.kr)
- * [장고 오프라인 강의 듣기](http://ask.festi.kr/p/1616)
- * [파이썬 오프라인 강의 듣기](http://ask.festi.kr/p/1987)
-
-[![AskDjango](readme/askdjango-allieus.png)](http://facebook.com/askdjango)
-
